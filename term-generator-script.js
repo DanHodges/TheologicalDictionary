@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-[
+const terms = [
     "2nd Temple Judaism",
     "Adoption",
     "Adoptionism",
@@ -159,12 +159,14 @@ const fs = require('fs')
     "World, The",
     "Worship",
     "Wrath Of God"
-  ].forEach(term => {
+  ]
+  
+  terms.forEach(term => {
     const def = 
 `# ${term}
 Definition of ${term} coming soon
 `
-    fs.writeFile(term + ".md", def, err => {
+    fs.writeFile(`${term}.md`, def, err => {
         if (err) {
             console.log("err")
         } else {

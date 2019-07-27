@@ -1,2 +1,2 @@
-# Modalism (sabellianism, Noetianism, Patripassionism)
-Definition of Modalism (sabellianism, Noetianism, Patripassionism) coming soon
+# Modalism (Sabellianism, Noetianism, Patripassionism)
+Definition of Modalism (Sabellianism, Noetianism, Patripassionism) coming soon
