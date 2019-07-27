@@ -2,6 +2,7 @@
 * [Introduction](README.md)
 * [2nd Temple Judaism](2nd-temple-judaism.md)
 * [Adoption](adoption.md)
+* [Adoptionzz](adoption.md)
 * [Adoptionism](adoptionism.md)
 * [Alexander](alexander.md)
 * [Angels](angels.md)
