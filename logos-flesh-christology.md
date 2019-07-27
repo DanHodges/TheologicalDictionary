@@ -1,2 +1,2 @@
 # Logos-flesh Christology
-Definition of Logos-flesh Christology coming soon.
+The definition of Logos-flesh Christology is coming soon!

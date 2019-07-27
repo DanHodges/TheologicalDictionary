@@ -1,2 +1,2 @@
 # Gregory Of Nyssa
-Definition of Gregory Of Nyssa coming soon.
+The definition of Gregory Of Nyssa is coming soon!

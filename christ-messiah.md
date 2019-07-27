@@ -1,2 +1,2 @@
 # Christ, Messiah
-Definition of Christ, Messiah coming soon.
+The definition of Christ, Messiah is coming soon!

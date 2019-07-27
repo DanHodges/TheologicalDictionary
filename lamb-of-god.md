@@ -1,2 +1,2 @@
 # Lamb Of God
-Definition of Lamb Of God coming soon.
+The definition of Lamb Of God is coming soon!

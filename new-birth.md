@@ -1,2 +1,2 @@
 # New Birth
-Definition of New Birth coming soon.
+The definition of New Birth is coming soon!

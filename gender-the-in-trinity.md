@@ -1,2 +1,2 @@
 # Gender The In Trinity?
-Definition of Gender The In Trinity? coming soon.
+The definition of Gender The In Trinity? is coming soon!

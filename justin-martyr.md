@@ -1,2 +1,2 @@
 # Justin Martyr
-Definition of Justin Martyr coming soon.
+The definition of Justin Martyr is coming soon!

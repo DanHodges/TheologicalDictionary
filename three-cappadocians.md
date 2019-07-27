@@ -1,2 +1,2 @@
 # Three Cappadocians
-Definition of Three Cappadocians coming soon.
+The definition of Three Cappadocians is coming soon!

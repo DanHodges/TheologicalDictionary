@@ -1,2 +1,2 @@
 # Perichoresis
-Definition of Perichoresis coming soon.
+The definition of Perichoresis is coming soon!

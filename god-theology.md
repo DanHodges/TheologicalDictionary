@@ -1,2 +1,2 @@
 # God, Theology
-Definition of God, Theology coming soon.
+The definition of God, Theology is coming soon!

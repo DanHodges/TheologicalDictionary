@@ -1,2 +1,2 @@
 # Blasphemy Of Sirmium
-Definition of Blasphemy Of Sirmium coming soon.
+The definition of Blasphemy Of Sirmium is coming soon!

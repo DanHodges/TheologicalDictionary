@@ -1,2 +1,2 @@
 # Hilary Of Poitiers
-Definition of Hilary Of Poitiers coming soon.
+The definition of Hilary Of Poitiers is coming soon!

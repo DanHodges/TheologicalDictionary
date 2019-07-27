@@ -1,2 +1,2 @@
 # Melchizedek
-Definition of Melchizedek coming soon.
+The definition of Melchizedek is coming soon!

@@ -1,2 +1,2 @@
 # Apollinarianism
-Definition of Apollinarianism coming soon.
+The definition of Apollinarianism is coming soon!

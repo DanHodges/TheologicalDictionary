@@ -1,2 +1,2 @@
 # Apollinaris
-Definition of Apollinaris coming soon.
+The definition of Apollinaris is coming soon!

@@ -1,2 +1,2 @@
 # John Zizilouas
-Definition of John Zizilouas coming soon.
+The definition of John Zizilouas is coming soon!

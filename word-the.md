@@ -1,2 +1,2 @@
 # Word, The
-Definition of Word, The coming soon.
+The definition of Word, The is coming soon!

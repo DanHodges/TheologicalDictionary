@@ -1,2 +1,2 @@
 # Alexander
-Definition of Alexander coming soon.
+The definition of Alexander is coming soon!

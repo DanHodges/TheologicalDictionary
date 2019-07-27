@@ -1,2 +1,2 @@
 # Marcellus Of Ancyra,
-Definition of Marcellus Of Ancyra, coming soon.
+The definition of Marcellus Of Ancyra, is coming soon!

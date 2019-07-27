@@ -1,0 +1,23 @@
+{
+  "name": "thelogicaldictionary",
+  "version": "1.0.0",
+  "description": "The purpose of this document is to define terms in light of who Jesus is and what he has done to include the human race into the eternal relationship that he shares with his Father in the Holy Spirit.",
+  "main": "summary-generator.js",
+  "dependencies": {
+    "@sindresorhus/slugify": "^0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanHodges/TheologicalDictionary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanHodges/TheologicalDictionary/issues"
+  },
+  "homepage": "https://github.com/DanHodges/TheologicalDictionary#readme"
+}

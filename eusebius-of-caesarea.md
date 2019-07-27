@@ -1,2 +1,2 @@
 # Eusebius Of Caesarea
-Definition of Eusebius Of Caesarea coming soon.
+The definition of Eusebius Of Caesarea is coming soon!

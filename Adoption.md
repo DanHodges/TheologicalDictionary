@@ -1,2 +1,2 @@
 # Adoption
-Definition of Adoption coming soon.
+The definition of Adoption is coming soon!

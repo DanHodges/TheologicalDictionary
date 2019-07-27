@@ -1,2 +1,2 @@
 # Platonism
-Definition of Platonism coming soon.
+The definition of Platonism is coming soon!

@@ -1,2 +1,2 @@
 # Shema
-Definition of Shema coming soon.
+The definition of Shema is coming soon!

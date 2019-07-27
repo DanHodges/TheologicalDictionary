@@ -1,2 +1,2 @@
 # World
-Definition of World coming soon.
+The definition of World is coming soon!

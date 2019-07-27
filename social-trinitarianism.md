@@ -1,2 +1,2 @@
 # Social Trinitarianism
-Definition of Social Trinitarianism coming soon.
+The definition of Social Trinitarianism is coming soon!

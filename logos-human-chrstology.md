@@ -1,2 +1,2 @@
 # Logos-human Chrstology
-Definition of Logos-human Chrstology coming soon.
+The definition of Logos-human Chrstology is coming soon!

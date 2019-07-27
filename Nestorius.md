@@ -1,2 +1,2 @@
 # Nestorius
-Definition of Nestorius coming soon.
+The definition of Nestorius is coming soon!

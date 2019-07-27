@@ -1,2 +1,2 @@
 # Communicatio Idiomatum.
-Definition of Communicatio Idiomatum. coming soon.
+The definition of Communicatio Idiomatum. is coming soon!

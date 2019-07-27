@@ -1,2 +1,2 @@
 # Wrath Of God
-Definition of Wrath Of God coming soon.
+The definition of Wrath Of God is coming soon!

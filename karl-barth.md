@@ -1,2 +1,2 @@
 # Karl Barth
-Definition of Karl Barth coming soon.
+The definition of Karl Barth is coming soon!

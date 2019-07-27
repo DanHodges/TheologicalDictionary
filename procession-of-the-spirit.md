@@ -1,2 +1,2 @@
 # Procession Of The Spirit
-Definition of Procession Of The Spirit coming soon.
+The definition of Procession Of The Spirit is coming soon!

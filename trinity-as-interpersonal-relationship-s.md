@@ -1,2 +1,2 @@
 # Trinity As Interpersonal Relationship(s)
-Definition of Trinity As Interpersonal Relationship(s) coming soon.
+The definition of Trinity As Interpersonal Relationship(s) is coming soon!

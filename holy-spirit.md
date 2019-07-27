@@ -1,2 +1,2 @@
 # Holy Spirit
-Definition of Holy Spirit coming soon.
+The definition of Holy Spirit is coming soon!

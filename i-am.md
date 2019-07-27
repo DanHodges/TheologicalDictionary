@@ -1,2 +1,2 @@
 # I Am
-Definition of I Am coming soon.
+The definition of I Am is coming soon!

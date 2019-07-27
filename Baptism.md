@@ -1,2 +1,2 @@
 # Baptism
-Definition of Baptism coming soon.
+The definition of Baptism is coming soon!

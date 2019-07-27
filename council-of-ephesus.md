@@ -1,2 +1,2 @@
 # Council Of Ephesus
-Definition of Council Of Ephesus coming soon.
+The definition of Council Of Ephesus is coming soon!

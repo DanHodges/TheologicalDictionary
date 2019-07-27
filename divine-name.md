@@ -1,2 +1,2 @@
 # Divine Name
-Definition of Divine Name coming soon.
+The definition of Divine Name is coming soon!

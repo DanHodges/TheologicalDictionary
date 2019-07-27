@@ -1,2 +1,2 @@
 # Neo-platonism
-Definition of Neo-platonism coming soon.
+The definition of Neo-platonism is coming soon!

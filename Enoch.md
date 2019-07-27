@@ -1,2 +1,2 @@
 # Enoch
-Definition of Enoch coming soon.
+The definition of Enoch is coming soon!

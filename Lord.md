@@ -1,2 +1,2 @@
 # Lord
-Definition of Lord coming soon.
+The definition of Lord is coming soon!

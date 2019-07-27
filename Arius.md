@@ -1,2 +1,2 @@
 # Arius
-Definition of Arius coming soon.
+The definition of Arius is coming soon!

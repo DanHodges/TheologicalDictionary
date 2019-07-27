@@ -1,2 +1,2 @@
 # Trinity In The Oid Testament
-Definition of Trinity In The Oid Testament coming soon.
+The definition of Trinity In The Oid Testament is coming soon!

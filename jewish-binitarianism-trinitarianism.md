@@ -1,2 +1,2 @@
 # Jewish Binitarianism, Trinitarianism
-Definition of Jewish Binitarianism, Trinitarianism coming soon.
+The definition of Jewish Binitarianism, Trinitarianism is coming soon!

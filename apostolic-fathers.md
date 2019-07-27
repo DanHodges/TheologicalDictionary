@@ -1,2 +1,2 @@
 # Apostolic Fathers
-Definition of Apostolic Fathers coming soon.
+The definition of Apostolic Fathers is coming soon!

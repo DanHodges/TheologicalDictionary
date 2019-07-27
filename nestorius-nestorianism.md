@@ -1,2 +1,2 @@
 # Nestorius/nestorianism
-Definition of Nestorius/nestorianism coming soon.
+The definition of Nestorius/nestorianism is coming soon!

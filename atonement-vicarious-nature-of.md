@@ -1,2 +1,2 @@
 # Atonement, Vicarious Nature Of
-Definition of Atonement, Vicarious Nature Of coming soon.
+The definition of Atonement, Vicarious Nature Of is coming soon!

@@ -1,2 +1,2 @@
 # Justification
-Definition of Justification coming soon.
+The definition of Justification is coming soon!

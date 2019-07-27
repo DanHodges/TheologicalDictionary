@@ -1,2 +1,2 @@
 # Atonement—its Nature
-Definition of Atonement—its Nature coming soon.
+The definition of Atonement—its Nature is coming soon!

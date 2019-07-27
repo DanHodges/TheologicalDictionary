@@ -1,2 +1,2 @@
 # Augustine
-Definition of Augustine coming soon.
+The definition of Augustine is coming soon!

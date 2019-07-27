@@ -1,2 +1,2 @@
 # Arianism
-Definition of Arianism coming soon.
+The definition of Arianism is coming soon!

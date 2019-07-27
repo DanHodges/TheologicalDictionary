@@ -1,2 +1,2 @@
 # Jesus’ Nature- Human
-Definition of Jesus’ Nature- Human coming soon.
+The definition of Jesus’ Nature- Human is coming soon!

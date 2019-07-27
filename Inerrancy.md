@@ -1,2 +1,2 @@
 # Inerrancy
-Definition of Inerrancy coming soon.
+The definition of Inerrancy is coming soon!

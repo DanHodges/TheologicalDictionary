@@ -1,2 +1,2 @@
 # Union With Christ
-Definition of Union With Christ coming soon.
+The definition of Union With Christ is coming soon!

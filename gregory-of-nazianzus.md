@@ -1,2 +1,2 @@
 # Gregory Of Nazianzus
-Definition of Gregory Of Nazianzus coming soon.
+The definition of Gregory Of Nazianzus is coming soon!

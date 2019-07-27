@@ -1,2 +1,2 @@
 # Dualism
-Definition of Dualism coming soon.
+The definition of Dualism is coming soon!

@@ -1,2 +1,2 @@
 # Hell
-Definition of Hell coming soon.
+The definition of Hell is coming soon!

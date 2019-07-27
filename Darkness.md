@@ -1,2 +1,2 @@
 # Darkness
-Definition of Darkness coming soon.
+The definition of Darkness is coming soon!

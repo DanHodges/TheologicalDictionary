@@ -1,2 +1,2 @@
 # Death Of Jesus
-Definition of Death Of Jesus coming soon.
+The definition of Death Of Jesus is coming soon!

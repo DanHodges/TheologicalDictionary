@@ -1,2 +1,2 @@
 # Ousia
-Definition of Ousia coming soon.
+The definition of Ousia is coming soon!

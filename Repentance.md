@@ -1,2 +1,2 @@
 # Repentance
-Definition of Repentance coming soon.
+The definition of Repentance is coming soon!

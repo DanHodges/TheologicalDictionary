@@ -1,2 +1,2 @@
 # Divine Self-existence
-Definition of Divine Self-existence coming soon.
+The definition of Divine Self-existence is coming soon!

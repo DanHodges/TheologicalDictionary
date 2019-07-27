@@ -1,2 +1,2 @@
 # Trinity & Personhood
-Definition of Trinity & Personhood coming soon.
+The definition of Trinity & Personhood is coming soon!

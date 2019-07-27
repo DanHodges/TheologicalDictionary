@@ -1,2 +1,2 @@
 # Son- The Creator
-Definition of Son- The Creator coming soon.
+The definition of Son- The Creator is coming soon!

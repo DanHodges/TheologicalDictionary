@@ -1,2 +1,2 @@
 # Jesus’ Consubstantial Deity
-Definition of Jesus’ Consubstantial Deity coming soon.
+The definition of Jesus’ Consubstantial Deity is coming soon!

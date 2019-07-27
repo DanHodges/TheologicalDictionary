@@ -1,2 +1,2 @@
 # Dynamic Monarchianism
-Definition of Dynamic Monarchianism coming soon.
+The definition of Dynamic Monarchianism is coming soon!

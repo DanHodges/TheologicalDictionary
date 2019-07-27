@@ -1,2 +1,2 @@
 # Council Of Constantinople (381 A.D.), First.
-Definition of Council Of Constantinople (381 A.D.), First. coming soon.
+The definition of Council Of Constantinople (381 A.D.), First. is coming soon!

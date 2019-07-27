@@ -1,2 +1,2 @@
 # Cyril Of Alexandria
-Definition of Cyril Of Alexandria coming soon.
+The definition of Cyril Of Alexandria is coming soon!

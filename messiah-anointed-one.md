@@ -1,2 +1,2 @@
 # Messiah/anointed One
-Definition of Messiah/anointed One coming soon.
+The definition of Messiah/anointed One is coming soon!

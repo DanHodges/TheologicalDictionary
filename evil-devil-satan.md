@@ -1,2 +1,2 @@
 # Evil, Devil, Satan
-Definition of Evil, Devil, Satan coming soon.
+The definition of Evil, Devil, Satan is coming soon!

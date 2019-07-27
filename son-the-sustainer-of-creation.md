@@ -1,2 +1,2 @@
 # Son- The Sustainer Of Creation
-Definition of Son- The Sustainer Of Creation coming soon.
+The definition of Son- The Sustainer Of Creation is coming soon!

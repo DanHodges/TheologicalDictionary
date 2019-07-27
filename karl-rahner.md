@@ -1,2 +1,2 @@
 # Karl Rahner
-Definition of Karl Rahner coming soon.
+The definition of Karl Rahner is coming soon!

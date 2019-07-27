@@ -1,2 +1,2 @@
 # Rabbinic Judaism
-Definition of Rabbinic Judaism coming soon.
+The definition of Rabbinic Judaism is coming soon!

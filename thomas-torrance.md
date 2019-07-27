@@ -1,2 +1,2 @@
 # Thomas Torrance
-Definition of Thomas Torrance coming soon.
+The definition of Thomas Torrance is coming soon!

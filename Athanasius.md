@@ -1,2 +1,2 @@
 # Athanasius
-Definition of Athanasius coming soon.
+The definition of Athanasius is coming soon!

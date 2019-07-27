@@ -1,2 +1,2 @@
 # Son Of God
-Definition of Son Of God coming soon.
+The definition of Son Of God is coming soon!

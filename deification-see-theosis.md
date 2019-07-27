@@ -1,2 +1,2 @@
 # Deification (see Theosis)
-Definition of Deification (see Theosis) coming soon.
+The definition of Deification (see Theosis) is coming soon!

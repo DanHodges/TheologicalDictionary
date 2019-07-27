@@ -1,2 +1,2 @@
 # Docetism
-Definition of Docetism coming soon.
+The definition of Docetism is coming soon!

@@ -1,2 +1,2 @@
 # Eustathius Of Antioch
-Definition of Eustathius Of Antioch coming soon.
+The definition of Eustathius Of Antioch is coming soon!

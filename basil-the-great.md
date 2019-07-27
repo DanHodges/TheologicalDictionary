@@ -1,2 +1,2 @@
 # Basil The Great
-Definition of Basil The Great coming soon.
+The definition of Basil The Great is coming soon!

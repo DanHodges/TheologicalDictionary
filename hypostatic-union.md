@@ -1,2 +1,2 @@
 # Hypostatic Union
-Definition of Hypostatic Union coming soon.
+The definition of Hypostatic Union is coming soon!

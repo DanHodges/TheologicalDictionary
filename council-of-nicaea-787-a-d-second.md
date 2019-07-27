@@ -1,2 +1,2 @@
 # Council Of Nicaea (787 A.D.), Second
-Definition of Council Of Nicaea (787 A.D.), Second coming soon.
+The definition of Council Of Nicaea (787 A.D.), Second is coming soon!

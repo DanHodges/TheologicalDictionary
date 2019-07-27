@@ -1,2 +1,2 @@
 # Nephilim
-Definition of Nephilim coming soon.
+The definition of Nephilim is coming soon!

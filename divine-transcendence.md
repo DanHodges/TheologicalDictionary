@@ -1,2 +1,2 @@
 # Divine Transcendence
-Definition of Divine Transcendence coming soon.
+The definition of Divine Transcendence is coming soon!

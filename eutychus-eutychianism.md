@@ -1,2 +1,2 @@
 # Eutychus/ Eutychianism
-Definition of Eutychus/ Eutychianism coming soon.
+The definition of Eutychus/ Eutychianism is coming soon!

@@ -1,2 +1,2 @@
 # Monopheliteitism
-Definition of Monopheliteitism coming soon.
+The definition of Monopheliteitism is coming soon!

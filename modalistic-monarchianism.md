@@ -1,2 +1,2 @@
 # Modalistic Monarchianism
-Definition of Modalistic Monarchianism coming soon.
+The definition of Modalistic Monarchianism is coming soon!

@@ -1,2 +1,2 @@
 # God: “what” Or “who”?
-Definition of God: “what” Or “who”? coming soon.
+The definition of God: “what” Or “who”? is coming soon!

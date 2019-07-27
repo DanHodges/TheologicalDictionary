@@ -1,2 +1,2 @@
 # Creation, Nature Of
-Definition of Creation, Nature Of coming soon.
+The definition of Creation, Nature Of is coming soon!

@@ -5,7 +5,7 @@ const {terms} = require("./terms")
 terms.forEach(term => {
   const def = 
 `# ${term}
-Definition of ${term} coming soon.
+The definition of ${term} is coming soon!
 `
   fs.writeFile(`${slugify(term)}.md`, def, err => {
       if (err) {

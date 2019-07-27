@@ -1,2 +1,2 @@
 # Gnosticism
-Definition of Gnosticism coming soon.
+The definition of Gnosticism is coming soon!

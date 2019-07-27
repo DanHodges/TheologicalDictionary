@@ -1,2 +1,2 @@
 # Eusebius Of Nicomedia
-Definition of Eusebius Of Nicomedia coming soon.
+The definition of Eusebius Of Nicomedia is coming soon!

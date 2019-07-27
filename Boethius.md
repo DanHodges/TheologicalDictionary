@@ -1,2 +1,2 @@
 # Boethius
-Definition of Boethius coming soon.
+The definition of Boethius is coming soon!

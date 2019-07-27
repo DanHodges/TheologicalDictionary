@@ -1,2 +1,2 @@
 # Heaven
-Definition of Heaven coming soon.
+The definition of Heaven is coming soon!

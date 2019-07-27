@@ -1,2 +1,2 @@
 # Hilary
-Definition of Hilary coming soon.
+The definition of Hilary is coming soon!

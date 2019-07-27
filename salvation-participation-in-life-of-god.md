@@ -1,2 +1,2 @@
 # Salvation (Participation In Life Of God)
-Definition of Salvation (Participation In Life Of God) coming soon.
+The definition of Salvation (Participation In Life Of God) is coming soon!

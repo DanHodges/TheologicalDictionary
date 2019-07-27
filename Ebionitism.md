@@ -1,2 +1,2 @@
 # Ebionitism
-Definition of Ebionitism coming soon.
+The definition of Ebionitism is coming soon!

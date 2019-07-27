@@ -1,2 +1,2 @@
 # Jesus’ Vicarious Humanity
-Definition of Jesus’ Vicarious Humanity coming soon.
+The definition of Jesus’ Vicarious Humanity is coming soon!

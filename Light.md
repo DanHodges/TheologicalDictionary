@@ -1,2 +1,2 @@
 # Light
-Definition of Light coming soon.
+The definition of Light is coming soon!

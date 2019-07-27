@@ -1,2 +1,2 @@
 # Origen
-Definition of Origen coming soon.
+The definition of Origen is coming soon!
