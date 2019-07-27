@@ -23,7 +23,6 @@
 * [Change In Godhead (Humanity Joined With Eternal Deity)](change-in-godhead-humanity-joined-with-eternal-deity.md)
 * [Christ, Messiah](christ-messiah.md)
 * [Communicatio Idiomatum](communicatio-idiomatum.md)
-* [Communicatio Idiomatum.](communicatio-idiomatum.md)
 * [Council Of Alexandria (See Synod Of Alexandria 362 A.D.)](council-of-alexandria-see-synod-of-alexandria-362-a-d.md)
 * [Council Of Chalcedon (451 A.D.)](council-of-chalcedon-451-a-d.md)
 * [Council Of Constantinople (381 A.D.), First.](council-of-constantinople-381-a-d-first.md)

@@ -22,7 +22,6 @@ module.exports.terms = [
     "Change In Godhead (Humanity Joined With Eternal Deity)",
     "Christ, Messiah",
     "Communicatio Idiomatum",
-    "Communicatio Idiomatum.",
     "Council Of Alexandria (See Synod Of Alexandria 362 A.D.)",
     "Council Of Chalcedon (451 A.D.)",
     "Council Of Constantinople (381 A.D.), First.",
