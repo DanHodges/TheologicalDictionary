@@ -1,2 +1,2 @@
 # Redemption
-Definition of Redemption coming soon
+Definition of Redemption coming soon.

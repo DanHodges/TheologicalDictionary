@@ -1,2 +1,2 @@
 # Scripture
-Definition of Scripture coming soon
+Definition of Scripture coming soon.

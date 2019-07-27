@@ -1,2 +1,2 @@
 # Sophia, Wisdom
-Definition of Sophia, Wisdom coming soon
+Definition of Sophia, Wisdom coming soon.

@@ -1,2 +1,2 @@
 # Divine Immanance
-Definition of Divine Immanance coming soon
+Definition of Divine Immanance coming soon.

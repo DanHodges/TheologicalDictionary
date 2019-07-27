@@ -1,2 +1,2 @@
 # Trinity
-Definition of Trinity coming soon
+Definition of Trinity coming soon.

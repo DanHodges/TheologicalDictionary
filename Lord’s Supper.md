@@ -1,2 +1,2 @@
 # Lord’s Supper
-Definition of Lord’s Supper coming soon
+Definition of Lord’s Supper coming soon.

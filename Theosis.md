@@ -1,2 +1,2 @@
 # Theosis
-Definition of Theosis coming soon
+Definition of Theosis coming soon.

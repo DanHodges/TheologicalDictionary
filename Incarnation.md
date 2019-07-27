@@ -1,2 +1,2 @@
 # Incarnation
-Definition of Incarnation coming soon
+Definition of Incarnation coming soon.

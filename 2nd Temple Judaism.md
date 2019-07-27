@@ -1,2 +1,2 @@
 # 2nd Temple Judaism
-Definition of 2nd Temple Judaism coming soon
+Definition of 2nd Temple Judaism coming soon.

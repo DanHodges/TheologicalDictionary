@@ -1,2 +1,2 @@
 # Irenaeus
-Definition of Irenaeus coming soon
+Definition of Irenaeus coming soon.

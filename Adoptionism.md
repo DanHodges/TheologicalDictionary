@@ -1,2 +1,2 @@
 # Adoptionism
-Definition of Adoptionism coming soon
+Definition of Adoptionism coming soon.

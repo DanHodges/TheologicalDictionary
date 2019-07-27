@@ -1,2 +1,2 @@
 # Paradise
-Definition of Paradise coming soon
+Definition of Paradise coming soon.

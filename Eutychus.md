@@ -1,2 +1,2 @@
 # Eutychus
-Definition of Eutychus coming soon
+Definition of Eutychus coming soon.

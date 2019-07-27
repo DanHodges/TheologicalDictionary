@@ -1,2 +1,2 @@
 # Son Of Man
-Definition of Son Of Man coming soon
+Definition of Son Of Man coming soon.

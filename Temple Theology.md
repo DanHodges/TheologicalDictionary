@@ -1,2 +1,2 @@
 # Temple Theology
-Definition of Temple Theology coming soon
+Definition of Temple Theology coming soon.

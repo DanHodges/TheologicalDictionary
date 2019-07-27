@@ -1,2 +1,2 @@
 # Angels
-Definition of Angels coming soon
+Definition of Angels coming soon.

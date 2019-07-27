@@ -1,2 +1,2 @@
 # Mutual Indwelling
-Definition of Mutual Indwelling coming soon
+Definition of Mutual Indwelling coming soon.

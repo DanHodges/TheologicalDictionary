@@ -1,2 +1,2 @@
 # Homoiousios
-Definition of Homoiousios coming soon
+Definition of Homoiousios coming soon.

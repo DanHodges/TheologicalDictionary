@@ -1,2 +1,2 @@
 # Atonement
-Definition of Atonement coming soon
+Definition of Atonement coming soon.

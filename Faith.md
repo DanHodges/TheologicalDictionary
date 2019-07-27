@@ -1,2 +1,2 @@
 # Faith
-Definition of Faith coming soon
+Definition of Faith coming soon.

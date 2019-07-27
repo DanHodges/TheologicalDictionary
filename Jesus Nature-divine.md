@@ -1,2 +1,2 @@
 # Jesus Nature-divine
-Definition of Jesus Nature-divine coming soon
+Definition of Jesus Nature-divine coming soon.

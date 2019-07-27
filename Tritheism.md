@@ -1,2 +1,2 @@
 # Tritheism
-Definition of Tritheism coming soon
+Definition of Tritheism coming soon.

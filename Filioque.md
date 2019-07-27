@@ -1,2 +1,2 @@
 # Filioque
-Definition of Filioque coming soon
+Definition of Filioque coming soon.

@@ -1,2 +1,2 @@
 # Hypostases
-Definition of Hypostases coming soon
+Definition of Hypostases coming soon.

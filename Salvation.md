@@ -1,2 +1,2 @@
 # Salvation
-Definition of Salvation coming soon
+Definition of Salvation coming soon.

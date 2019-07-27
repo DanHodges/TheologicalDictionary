@@ -1,2 +1,2 @@
 # Macedonianism
-Definition of Macedonianism coming soon
+Definition of Macedonianism coming soon.

@@ -1,2 +1,2 @@
 # Eschatology
-Definition of Eschatology coming soon
+Definition of Eschatology coming soon.

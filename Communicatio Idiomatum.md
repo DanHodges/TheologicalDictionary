@@ -1,2 +1,2 @@
 # Communicatio Idiomatum
-Definition of Communicatio Idiomatum coming soon
+Definition of Communicatio Idiomatum coming soon.

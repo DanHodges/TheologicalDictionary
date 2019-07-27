@@ -1,2 +1,2 @@
 # Tertullian
-Definition of Tertullian coming soon
+Definition of Tertullian coming soon.

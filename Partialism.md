@@ -1,2 +1,2 @@
 # Partialism
-Definition of Partialism coming soon
+Definition of Partialism coming soon.

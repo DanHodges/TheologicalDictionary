@@ -1,2 +1,2 @@
 # Regeneration
-Definition of Regeneration coming soon
+Definition of Regeneration coming soon.

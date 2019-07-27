@@ -1,2 +1,2 @@
 # Monophysitism
-Definition of Monophysitism coming soon
+Definition of Monophysitism coming soon.

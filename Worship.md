@@ -1,2 +1,2 @@
 # Worship
-Definition of Worship coming soon
+Definition of Worship coming soon.

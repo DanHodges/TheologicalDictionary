@@ -1,2 +1,2 @@
 # Heteroousios
-Definition of Heteroousios coming soon
+Definition of Heteroousios coming soon.

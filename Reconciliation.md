@@ -1,2 +1,2 @@
 # Reconciliation
-Definition of Reconciliation coming soon
+Definition of Reconciliation coming soon.

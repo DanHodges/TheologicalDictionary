@@ -1,2 +1,2 @@
 # Eternal Life
-Definition of Eternal Life coming soon
+Definition of Eternal Life coming soon.

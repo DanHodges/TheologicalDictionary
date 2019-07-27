@@ -1,2 +1,2 @@
 # Sin
-Definition of Sin coming soon
+Definition of Sin coming soon.
