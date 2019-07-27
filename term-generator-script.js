@@ -1,4 +1,6 @@
-var terms = [
+const fs = require('fs')
+
+[
     "2nd Temple Judaism",
     "Adoption",
     "Adoptionism",
@@ -157,15 +159,12 @@ var terms = [
     "World, The",
     "Worship",
     "Wrath Of God"
-  ]
-
-var fs = require('fs')
-terms.map(t => t.split(' ').map((s) => s.charAt(0).toUpperCase() + s.substring(1)).join(' ')).forEach(term => {
-    var def = 
+  ].forEach(term => {
+    const def = 
 `# ${term}
 Definition of ${term} coming soon
 `
-    fs.writeFile( term + '.md', def, function (err) {
+    fs.writeFile(term + ".md", def, err => {
         if (err) {
             console.log("err")
         } else {
