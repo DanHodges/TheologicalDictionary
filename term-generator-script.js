@@ -8,7 +8,7 @@ terms.forEach(term => {
 
 The definition of ${term} is coming soon!
 `
-  fs.writeFile(`${slugify(term)}.md`, def, err => {
+  fs.writeFile(`${slugify(term).toLowerCase()}.md`, def, err => {
       if (err) {
           console.log(err)
       } else {
