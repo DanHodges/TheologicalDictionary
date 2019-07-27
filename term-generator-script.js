@@ -161,11 +161,8 @@ var terms = [
 
 var fs = require('fs')
 terms.map(t => t.split(' ').map((s) => s.charAt(0).toUpperCase() + s.substring(1)).join(' ')).forEach(term => {
-    var def = `
-    # ${term}
-
-    Definition of ${term} coming soon
-    `
+    var def = `# ${term}
+    Definition of ${term} coming soon`
     fs.appendFile( term + '.md', def, function (err) {
         if (err) {
             console.log("err")
