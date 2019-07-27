@@ -1,5 +1,5 @@
 # Table of contents
-* [Initial page](README.md)
+* [Introduction](README.md)
 * [2nd Temple Judaism](2nd\ Temple\ Judaism.md)
 * [Adoption](Adoption.md)
 * [Adoptionism](Adoptionism.md)
