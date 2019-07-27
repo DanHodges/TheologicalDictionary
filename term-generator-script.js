@@ -1,4 +1,5 @@
 const fs = require("fs")
+const slugify = require('@sindresorhus/slugify')
 const {terms} = require("./terms")
   
 terms.forEach(term => {
@@ -6,7 +7,7 @@ terms.forEach(term => {
 `# ${term}
 Definition of ${term} coming soon.
 `
-  fs.writeFile(`${term}.md`, def, err => {
+  fs.writeFile(`${slugify(term)}.md`, def, err => {
       if (err) {
           console.log(err)
       } else {
